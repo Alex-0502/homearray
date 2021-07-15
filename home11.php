@@ -5,3 +5,4 @@ $arr = [
 ];
 echo $arr['cms'][0].','.$arr['cms'][2].','.$arr['colors']['green'].','
 .$arr['colors']['red'];
+echo '1';
